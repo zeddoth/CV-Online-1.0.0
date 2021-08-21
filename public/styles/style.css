@@ -121,3 +121,7 @@ dd.clear {
   justify-content: center;
   align-items: center;
 }
+
+.details {
+  margin-bottom: 2rem;
+}
